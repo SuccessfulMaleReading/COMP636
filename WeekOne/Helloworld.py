@@ -14,4 +14,6 @@ numTwo = int(input("Enter the second number: "))
 numSum = numOne + numTwo
 print(f"The sum of your numbers is {numSum}")
 
-print("welcome to", numOne, "!")
+print("welcome to", numOne, "!")  # commas adds a space to the start and end
+print("welcome to" + numOne + "!")  # + does not att spaces in between
+
