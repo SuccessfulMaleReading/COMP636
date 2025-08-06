@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WeekOne/UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOne/decisions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOne/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOne/vars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/COMP636.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COMP636.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekOne/Helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekOne/Helloworld.py" afterDir="false" />
-    </list>
+    <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
