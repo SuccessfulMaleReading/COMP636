@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/shoppingList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/Basic Comparison Operators/What else is true?.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,11 @@
   "keyToString": {
     "Python.Helloworld.executor": "Run",
     "Python.PythonBasics.executor": "Run",
+    "Python.What else is true?.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.decisions.executor": "Run",
     "Python.shoppingList.executor": "Run",
+    "Python.svs_admin_your_name.executor": "Run",
     "Python.test.executor": "Run",
     "Python.vars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
