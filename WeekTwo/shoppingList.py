@@ -60,7 +60,6 @@ while a != count:
     a += 1
 
 # PRINTING OUT A LIST
-
 # For loop
 
 

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="CURRENT">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/IF ELSE Statements/1_If else in python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/IF ELSE Statements/2_shortcut if else.py" afterDir="false" />
+    <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WeekTwo/shoppingList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/IF ELSE Statements/If else in python.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/IF ELSE Statements/3_Nested If Else.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +33,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.3_Nested If Else.executor": "Run",
     "Python.Helloworld.executor": "Run",
     "Python.PythonBasics.executor": "Run",
-    "Python.What else is true?.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.decisions.executor": "Run",
     "Python.shoppingList.executor": "Run",
-    "Python.shortcut if else.executor": "Run",
-    "Python.svs_admin_your_name.executor": "Run",
     "Python.test.executor": "Run",
     "Python.vars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,19 +61,6 @@
       <option name="presentableId" value="Default" />
       <updated>1753266281399</updated>
     </task>
-    <task id="LOCAL-00001" summary="CURRENT">
-      <option name="closed" value="true" />
-      <created>1755595384808</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1755595384808</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="CURRENT" />
-    <option name="LAST_COMMIT_MESSAGE" value="CURRENT" />
   </component>
 </project>
