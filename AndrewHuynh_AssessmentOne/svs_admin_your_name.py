@@ -12,7 +12,6 @@ import datetime     # We are using date times for this assessment, and it is
 
 def list_customers():
     # List the ID, name, telephone number, and email of all customers
-
     # Use col_Customers for display
    
     # Convert the dictionary data into a list that displays the required data fields

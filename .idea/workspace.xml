@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="Merge branch 'master' of https://github.com/SuccessfulMaleReading/COMP636&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/CopyingAndSlicingLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/LoopingThroughEachItemOnAList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/Tester.py" afterDir="false" />
+    <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/Dictionaries/1Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/1NestedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/2LoopNestedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/3CombiningLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/4LAMDASorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/SortingLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/COMP636.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COMP636.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndrewHuynh_AssessmentOne/svs_admin_your_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/AndrewHuynh_AssessmentOne/svs_admin_your_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/CopyingAndSlicingLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/CopyingAndSlicingLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/ListsAndTuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/LoopingThroughEachItemOnAList.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/LoopingThroughEachItemOnAList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +38,23 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="30GuYu7Re5NPLrJKhiGTSSn0koV" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.CopyingAndSlicingLists.executor": "Run",
+    "Python.1Dictionaries.executor": "Run",
+    "Python.2LoopNestedLists.executor": "Run",
+    "Python.3CombiningLists.executor": "Run",
+    "Python.4LAMDASorting.executor": "Run",
     "Python.Helloworld.executor": "Run",
-    "Python.ListsAndTuples.executor": "Run",
+    "Python.NestedLists.executor": "Run",
     "Python.PythonBasics.executor": "Run",
-    "Python.Tester.executor": "Run",
+    "Python.SortingLists.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.decisions.executor": "Run",
+    "Python.listDemo.executor": "Run",
     "Python.shoppingList.executor": "Run",
     "Python.test.executor": "Run",
     "Python.vars.executor": "Run",
@@ -54,10 +63,15 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\COMP636\WeekTwo\LoopsAndCollections\ListsAndTuples" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
