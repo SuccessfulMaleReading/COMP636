@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/Dictionaries/1Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/1NestedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/2LoopNestedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/3CombiningLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/4LAMDASorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/SortingLists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/COMP636.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COMP636.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndrewHuynh_AssessmentOne/svs_admin_your_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/AndrewHuynh_AssessmentOne/svs_admin_your_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/CopyingAndSlicingLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/CopyingAndSlicingLists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/ListsAndTuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/LoopingThroughEachItemOnAList.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/LoopsAndCollections/ListsAndTuples/LoopingThroughEachItemOnAList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment part 1/svs 2/svs_admin_your_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment part 1/svs 2/svs_admin_your_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +47,7 @@
     "Python.decisions.executor": "Run",
     "Python.listDemo.executor": "Run",
     "Python.shoppingList.executor": "Run",
+    "Python.svs_admin_your_name.executor": "Run",
     "Python.test.executor": "Run",
     "Python.vars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

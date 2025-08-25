@@ -36,8 +36,22 @@ def list_customers():
 
 
 def list_treatments():
+    display_List = []
+    for treatment in db_treatments.keys():
+        display_List.append((treatment,
+                             db_treatments[treatment]
+                             ))
+    print("\n Treatment List\n")
+    format_columns = "{:} | {:} | ${:.2f}"
+    display_formatted_row(list(col_treatments.keys()), format_columns)
+    for row in display_List:
+        display_formatted_row(row, format_columns)
+
+    input("\nPress Enter to continue. ")
+
     # List the ID, name, cost of all treatments
-    pass  # REMOVE this line once you have some function code (a function must have one line of code, so this temporary line keeps Python happy so you can run the code)
+    # pass
+    # ^REMOVE this line once you have some function code (a function must have one line of code, so this temporary line keeps Python happy so you can run the code)
 
 def list_services():
     # List the ID, name, cost of all services
