@@ -50,12 +50,21 @@ def list_treatments():
     input("\nPress Enter to continue. ")
     # List the ID, name, cost of all treatments
 
-def list_services()
+def list_services():
     display_list = []
-    for service in db_services.key():
-        display_list.append(service,
-                            db_services
-                            )
+    for service in db_services.keys():
+        display_list.append((service,
+                            db_services[service][0],
+                            db_services[service][1]
+                            ))
+    print("\n List of Services\n")
+    format_columns = "{: >4} | {: <20} | {: <10}"
+    display_formatted_row(list(col_services.keys()), format_columns)
+    for row in display_list:
+        display_formatted_row(row, format_columns)
+
+    input("\nPress Enter to continue ")
+
     # List the ID, name, cost of all services
     pass  # REMOVE this line once you have some function code (a function must have one line of code, so this temporary line keeps Python happy so you can run the code)
 
@@ -63,7 +72,7 @@ def add_customer():
     # Add a customer to the db_customers database, use the unique_id to get an id for the customer.
     # Remember to add all required dictionaries.
 
-    pass  # REMOVE this line once yourts have some function code (a function must have one line of code, so this temporary line keeps Python happy so you can run the code)
+    pass  # REMOVE this line once yours have some function code (a function must have one line of code, so this temporary line keeps Python happy so you can run the code)
 
 def add_booking():
     # Add a booking to a customer
