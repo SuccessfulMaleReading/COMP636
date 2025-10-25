@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/COMP636.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COMP636.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment part 1/svs 2/svs_admin_your_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment part 1/svs 2/svs_admin_your_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndrewHuynh_AssessmentOne/svs_admin_your_name.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,29 +33,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2LoopNestedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3CombiningLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4LAMDASorting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NestedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PythonBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortingLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decisions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shoppingList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.svs_admin_your_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vars.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1Dictionaries.executor": "Run",
+    "Python.2LoopNestedLists.executor": "Run",
+    "Python.3CombiningLists.executor": "Run",
+    "Python.4LAMDASorting.executor": "Run",
+    "Python.Helloworld.executor": "Run",
+    "Python.NestedLists.executor": "Run",
+    "Python.PythonBasics.executor": "Run",
+    "Python.SortingLists.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.decisions.executor": "Run",
+    "Python.listDemo.executor": "Run",
+    "Python.shoppingList.executor": "Run",
+    "Python.svs_admin_your_name.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.vars.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/andrewhuynh/Documents/GitHub/COMP636/AndrewHuynh_AssessmentOne"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andre\Desktop\COMP636\WeekTwo\LoopsAndCollections\ListsAndTuples" />
@@ -62,7 +65,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
