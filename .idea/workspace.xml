@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de180638-be9c-48a5-94d0-487a4ae92dc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank-PythonDailyChallenges/Task4_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank-PythonDailyChallenges/Task5_WriteAFunction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,34 +28,39 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="30GuYu7Re5NPLrJKhiGTSSn0koV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2LoopNestedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3CombiningLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4LAMDASorting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NestedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PythonBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortingLists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task2_ArithimaticOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decisions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shoppingList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.svs_admin_your_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vars.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1Dictionaries.executor": "Run",
+    "Python.2LoopNestedLists.executor": "Run",
+    "Python.3CombiningLists.executor": "Run",
+    "Python.4LAMDASorting.executor": "Run",
+    "Python.Helloworld.executor": "Run",
+    "Python.NestedLists.executor": "Run",
+    "Python.PythonBasics.executor": "Run",
+    "Python.SortingLists.executor": "Run",
+    "Python.Task2_ArithimaticOperators.executor": "Run",
+    "Python.Task4_Loops.executor": "Run",
+    "Python.Task5_WriteAFunction.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.decisions.executor": "Run",
+    "Python.listDemo.executor": "Run",
+    "Python.shoppingList.executor": "Run",
+    "Python.svs_admin_your_name.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.vars.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andre\Desktop\COMP636\WeekTwo\LoopsAndCollections\ListsAndTuples" />
@@ -93,5 +100,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank-PythonDailyChallenges/Task5_WriteAFunction.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
